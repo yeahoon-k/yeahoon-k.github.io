@@ -13,6 +13,7 @@ Causal Inference, Causal Machine Learning, Causal Reinforcement Learning <br>
 
 ## Conferences <br> 
 (* for joint first authorship, † for corresponding authorship) 
+- (UAI 2026) Y Choe, **Y Kwon\***, M Park\*, S Lee†. **Canonical Domain Reduction for Partial Counterfactual Identification**
 - (NeurIPS 2025) **Y Kwon**, Y Choe, S Park, N Dhir†, S Lee†. **Non-Stationary Structural Causal Bandits** [[paper]](https://openreview.net/pdf?id=F4LhOqhxkk) [[code]](https://github.com/yeahoon-k/NS-SCMMAB) [[poster]]() [[blog post]]({{ "/ns-scb-explainer/" | relative_url }})
 - (ICML 2024) I Hwang\*, Y Choe\*, **Y Kwon**, S Lee†. **On positivity condition for causal inference** [[paper]](https://openreview.net/pdf?id=6D0nyemiWk) <br>
 
