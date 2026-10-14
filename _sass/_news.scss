@@ -30,5 +30,22 @@
   }
 
   time { white-space: nowrap; }
-  .news-paper { white-space: nowrap; }
+  .news-new {
+    display: inline-block;
+    margin-right: 4px;
+    color: #c52636;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    animation: news-sparkle 1.6s ease-in-out infinite;
+  }
+}
+
+@keyframes news-sparkle {
+  0%, 100% { opacity: 1; text-shadow: 0 0 5px rgba(197, 38, 54, 0.3); }
+  50% { opacity: 0.45; text-shadow: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-news .news-new { animation: none; }
 }
