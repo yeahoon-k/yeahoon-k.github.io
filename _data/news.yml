@@ -1,0 +1,52 @@
+# Newest first. Conference months use official author-notification dates,
+# not the dates of the conference. Keep date precision honest (YYYY or YYYY-MM).
+- date: "2026-10"
+  label: Oct 2026
+  # Month and recognition confirmed by the author from the NeurIPS email.
+  message: 'I was recognized as a **Top Reviewer at NeurIPS 2026**!'
+
+- date: "2026-09"
+  label: Sep 2026
+  # Publisher article history: accepted 14 September 2026.
+  date_source: https://doi.org/10.1093/aje/kwag243
+  title: "Event-Time Regression Discontinuity for Biomedical Data: LATT Estimation and Covariate Distribution Tests"
+  message: 'Our paper on event-time regression discontinuity was accepted by the **American Journal of Epidemiology**!'
+  paper_url: https://doi.org/10.1093/aje/kwag243
+
+- date: "2026-06"
+  label: Jun 2026
+  # Official author notification: 1 June 2026 (AoE).
+  date_source: https://auai.org/uai2026/important_dates
+  title: Canonical Domain Reduction for Partial Counterfactual Identification
+  message: 'Our paper on canonical domain reduction was accepted at **UAI 2026**!'
+  paper_url: https://proceedings.mlr.press/v337/choe26a.html
+
+- date: "2025-09"
+  label: Sep 2025
+  # Official author notification: 18 September 2025 (AoE).
+  date_source: https://nips.cc/Conferences/2025/CallForPapers
+  title: Non-Stationary Structural Causal Bandits
+  message: 'Our paper “Non-Stationary Structural Causal Bandits” was accepted at **NeurIPS 2025**!'
+  paper_url: https://openreview.net/forum?id=F4LhOqhxkk
+
+- date: "2024-05"
+  label: May 2024
+  # Official paper decision notification: 1 May 2024 (AoE).
+  date_source: https://icml.cc/Conferences/2024/Dates
+  title: On Positivity Condition for Causal Inference
+  message: 'Our paper “On Positivity Condition for Causal Inference” was accepted at **ICML 2024**!'
+  paper_url: https://openreview.net/forum?id=6D0nyemiWk
+
+- date: "2018"
+  label: "2018"
+  title: Electroencephalography Based Fusion Two-Dimensional (2D)-Convolution Neural Networks (CNN) Model for Emotion Recognition System
+  message: 'Our paper on EEG-based emotion recognition using CNNs was accepted by **Sensors**!'
+  paper_url: https://doi.org/10.3390/s18051383
+
+- date: "2017"
+  label: "2017"
+  # CSA 2017 conference year, as in the existing homepage. The proceedings
+  # volume carries a 2018 publication year; no acceptance month is asserted.
+  title: Transformation of EEG Signal for Emotion Analysis and Dataset Construction for DNN Learning
+  message: 'Our paper on EEG signal transformation for DNN learning was accepted at **CSA 2017**!'
+  paper_url: https://doi.org/10.1007/978-981-10-7605-3_16

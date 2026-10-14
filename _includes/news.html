@@ -1,0 +1,10 @@
+<section class="home-news" aria-labelledby="news-heading">
+  <h2 id="news-heading">News</h2>
+  <div class="news-scroll" tabindex="0" role="region" aria-label="Research news, newest first; scroll for older updates">
+    <ul class="news-list">
+      {% for item in site.data.news %}
+      <li><time datetime="{{ item.date }}">{{ item.label }}</time>: {{ item.message | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% if item.paper_url %} <a class="news-paper" href="{{ item.paper_url }}" aria-label="Read {{ item.title | escape }}">[paper]</a>{% endif %}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

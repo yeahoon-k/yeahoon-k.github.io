@@ -8,6 +8,8 @@ I am a Ph.D. student in Graduate School of Data Science at Seoul National Univer
 <br>
 I studied Computer Science & Engineering for my B.S. and M.S. degrees. My research field was Human Computer Interaction based on deep learning model. Nowadays, I have been focusing on studying Machine Learning and Reinforcement Learning through a **Causal Lens**.   
 
+{% include news.html %}
+
 ## Research Interests <br>
 Causal Inference, Causal Machine Learning, Causal Reinforcement Learning <br>
 
@@ -25,6 +27,9 @@ Causal Inference, Causal Machine Learning, Causal Reinforcement Learning <br>
 - Kwon, Y. H., Shin, S. B., & Kim, S. D.† (2018). _Electroencephalography based fusion two-dimensional (2D)-convolution neural networks (CNN) model for emotion recognition system._ Sensors, 18(5), 1383.
 - Kwon, Y., Nan, Y., & Kim, S. D.† (2017). _Transformation of EEG Signal for Emotion Analysis and Dataset Construction for DNN Learning._ In Advances in Computer Science and Ubiquitous Computing (pp. 96-101). Springer, Singapore.
 
+
+## Academic Service
+- **NeurIPS 2026** — Main Track Reviewer (**Top Reviewer**)
 
 *** 
 E-mail: dataofyou@snu.ac.kr <br>
